@@ -20,4 +20,6 @@
  * type AnyClassConstructor = ClassConstructor;
  * const anyClassInstance: any = new AnyClassConstructor(args);
  */
+
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 export type ClassConstructor<T = any> = new (...args: any[]) => T;

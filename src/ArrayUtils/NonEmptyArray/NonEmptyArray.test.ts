@@ -1,7 +1,7 @@
-import { NonEmptyArray } from './';
+import { NonEmptyArray } from "./";
 
-describe('[Test] NonEmptyArray', () => {
-  it('returns the first element of a non-empty array', () => {
+describe("[Test] NonEmptyArray", () => {
+  it("returns the first element of a non-empty array", () => {
 
 
     function esNonEmptyArray<T>(arr: T[]): arr is NonEmptyArray<T> {

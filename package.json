@@ -11,9 +11,17 @@
   "scripts": {
     "test": "jest --no-cache",
     "test-changed": "jest --onlyChanged",
-    "lint": "eslint . --ext .ts"
+    "lint": "eslint . --ext .ts",
+    "style": "npm run lint -- --fix"
   },
-  "keywords": [],
+  "keywords": [
+    "typescript",
+    "utils",
+    "common",
+    "types",
+    "typescript-common-utils",
+    "library"
+  ],
   "license": "MIT",
   "dependencies": {
     "tsd": "^0.28.1",
@@ -31,5 +39,10 @@
   },
   "engines": {
     "node": ">=16.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Bryan-Herrera-DEV/typescript-common-utils/issues"
+  },
+  "homepage": "https://github.com/Bryan-Herrera-DEV/typescript-common-utils#readme"
+
 }

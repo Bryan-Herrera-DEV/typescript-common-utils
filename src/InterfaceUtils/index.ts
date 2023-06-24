@@ -1,1 +1,1 @@
-export * from "./DeepReadOnly"
+export * from "./DeepReadOnly";

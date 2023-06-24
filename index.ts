@@ -1,3 +1,3 @@
-export * from './src/ClassUtils';
-export * from './src/InterfaceUtils';
-export * from './src/ArrayUtils';
+export * from "./src/ClassUtils";
+export * from "./src/InterfaceUtils";
+export * from "./src/ArrayUtils";
