@@ -8,8 +8,10 @@ img
 .github
 jest.config.ts
 .eslintrc
+.husky
 CODE_OF_CONDUCT.md
 README.md
 CONTRIBUTING.md
 LICENSE.md
 SECURITY.md
+*.tgz
