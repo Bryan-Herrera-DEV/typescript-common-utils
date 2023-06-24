@@ -7,3 +7,8 @@ img
 .github
 jest.config.ts
 .eslintrc
+CODE_OF_CONDUCT.md
+README.md
+CONTRIBUTING.md
+LICENSE.md
+SECURITY.md
