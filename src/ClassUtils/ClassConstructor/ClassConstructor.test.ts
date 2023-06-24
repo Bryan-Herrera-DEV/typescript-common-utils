@@ -1,4 +1,4 @@
-import { ClassConstructor } from "./";
+import { ClassConstructor } from ".";
 import { Usuario } from "../../../test/utils/UsuarioClass";
 
 describe("[Test] ClassConstructor", () => {

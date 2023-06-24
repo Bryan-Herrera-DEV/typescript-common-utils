@@ -3,6 +3,7 @@
 img
 /test
 /**/*.test.ts
+/scripts
 .vscode
 .github
 jest.config.ts
