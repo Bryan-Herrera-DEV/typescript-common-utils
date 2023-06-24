@@ -1,0 +1,5 @@
+.vscode
+.gitattributes
+img
+/test
+/**/*.test.ts
