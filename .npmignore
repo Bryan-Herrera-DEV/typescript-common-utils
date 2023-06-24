@@ -3,3 +3,7 @@
 img
 /test
 /**/*.test.ts
+.vscode
+.github
+jest.config.ts
+.eslintrc

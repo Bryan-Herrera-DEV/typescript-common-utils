@@ -1,0 +1,27 @@
+name: Test Proyect
+
+on:
+  pull_request:
+    branches:
+      - main
+jobs:
+  build:
+    name: Code Style & Test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18.12.1
+          cache: npm
+
+      - name: 📦 Intall Dependencies
+        run: npm i
+
+      - name: 🧪 Run  Test
+        if: ${{ github.event_name == 'push' }}
+        run: npm run test
+
+      - name: 💄 Code Style
+        run: npm run style
