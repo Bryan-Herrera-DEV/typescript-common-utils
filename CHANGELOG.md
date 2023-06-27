@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/compare/v0.0.3...v0.0.4) (2023-06-27)
+
+
+### Features
+
+* **configs:** :wrench: add cz-configs and changelog ([d78f664](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/d78f6643fad72a9d6d8b269a2d1d156281fd5254))
+
 ### [0.0.3](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/compare/v0.0.2...v0.0.3) (2023-06-27)
 
 ### [0.0.2](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/compare/v0.0.1...v0.0.2) (2023-06-27)
