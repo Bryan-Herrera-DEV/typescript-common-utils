@@ -15,7 +15,12 @@
     "style": "npm run lint -- --fix",
     "prepare": "husky install",
     "test-files": "node scripts/ValidateTest.mjs",
-    "release": "standard-version"
+    "release": "standard-version",
+    "release:major": "npm run release -- --release-as major",
+    "release:minor": "npm run release -- --release-as minor",
+    "release:patch": "npm run release -- --release-as patch",
+    "release:alpha": "npm run release -- --prerelease alpha",
+    "release:breaking-changes": "npm run release -- --release-as major --prerelease alpha"
   },
   "keywords": [
     "typescript",
