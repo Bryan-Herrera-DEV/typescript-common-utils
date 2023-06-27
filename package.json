@@ -20,7 +20,8 @@
     "release:minor": "npm run release -- --release-as minor",
     "release:patch": "npm run release -- --release-as patch",
     "release:alpha": "npm run release -- --prerelease alpha",
-    "release:breaking-changes": "npm run release -- --release-as major --prerelease alpha"
+    "release:breaking-changes": "npm run release -- --release-as major --prerelease alpha",
+    "publish": "npm push --follow-tags main"
   },
   "keywords": [
     "typescript",
