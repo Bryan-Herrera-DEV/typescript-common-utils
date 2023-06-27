@@ -1,6 +1,6 @@
 {
   "name": "typescript-dev-utils",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Library that makes available many useful and common types for regular typescript developers.",
   "main": "index.ts",
   "author": "Bryan Herrera <bryherrera55@gmail.com>",
