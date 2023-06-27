@@ -1,6 +1,6 @@
 {
   "name": "typescript-dev-utils",
-  "version": "0.0.1",
+  "version": "0.2.2",
   "description": "Library that makes available many useful and common types for regular typescript developers.",
   "main": "index.ts",
   "author": "Bryan Herrera <bryherrera55@gmail.com>",
@@ -14,7 +14,14 @@
     "lint": "eslint . --ext .ts",
     "style": "npm run lint -- --fix",
     "prepare": "husky install",
-    "test-files": "node scripts/ValidateTest.mjs"
+    "test-files": "node scripts/ValidateTest.mjs",
+    "release": "standard-version",
+    "release:major": "npm run release -- --release-as major",
+    "release:minor": "npm run release -- --release-as minor",
+    "release:patch": "npm run release -- --release-as patch",
+    "release:alpha": "npm run release -- --prerelease alpha",
+    "release:breaking-changes": "npm run release -- --release-as major --prerelease alpha",
+    "publish": "npm push --follow-tags main"
   },
   "keywords": [
     "typescript",
@@ -33,10 +40,14 @@
     "@typescript-eslint/eslint-plugin": "^5.42.1",
     "@typescript-eslint/parser": "^5.42.1",
     "babel-jest": "^29.2.2",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "cz-customizable": "^7.0.0",
     "eslint": "^8.27.0",
     "globby": "^13.2.0",
     "husky": "^8.0.3",
     "jest": "^29.2.2",
+    "standard-version": "^9.5.0",
     "ts-jest": "^29.0.3",
     "ts-node": "^10.9.1",
     "tsd": "^0.28.1"
@@ -47,5 +58,10 @@
   "bugs": {
     "url": "https://github.com/Bryan-Herrera-DEV/typescript-common-utils/issues"
   },
-  "homepage": "https://github.com/Bryan-Herrera-DEV/typescript-common-utils#readme"
+  "homepage": "https://github.com/Bryan-Herrera-DEV/typescript-common-utils#readme",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }

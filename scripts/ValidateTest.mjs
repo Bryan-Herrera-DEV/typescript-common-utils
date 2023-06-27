@@ -38,8 +38,10 @@ function execute(filePaths) {
     filepath = filepath.replace("src/", "");
     filepath = filepath.split("/")[1];
     if (filepath && filename !== "index.ts") {
-      validateFolderSpecialCharacters(filepath, filename);
       validateFolderAndFileNames(filepath, filename);
+    }
+    if (filepath && filename === "index.ts") {
+      validateFolderSpecialCharacters(filepath, filename);
     }
   }
   return filePaths;
