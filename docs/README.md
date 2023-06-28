@@ -9,5 +9,8 @@ The library of useful types consists of a number of type definitions ranging fro
 - Basic types such as strings, numbers, and Booleans.
 - Complex types such as promises, functions and classes.
 - Utility types such as ClassConstructor, which allows the creation of instances of a given class.
-- Custom types that are common in many projects, such as user objects, settings, events, etc.
+- Custom types that are common in many projects, such as user objects, settings, events, etc.a
 
+```js
+import { ClassConstructor } from 'useful-types';
+```
