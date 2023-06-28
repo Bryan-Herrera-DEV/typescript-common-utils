@@ -1,4 +1,8 @@
-# Typescript Common Utils <small>4.8.5</small>
+<p align="center">
+    <img src="./assets/img/LOGO.png" align="center" width="150px" alt="Tpescript Dev Utils Logo">
+</p>
+
+# Typescript Dev Utils
 
 > A most useful typescript library of developers.
 
