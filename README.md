@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://main--bejewelled-taiyaki-913499.netlify.app/assets/img/LOGO-BANNER.png" align="center" width="400px" alt="Tpescript Dev Utils Logo">
+    <img src="https://typescript-dev-utils.netlify.app/assets/img/LOGO-BANNER.png" align="center" width="400px" alt="Tpescript Dev Utils Logo">
 </p>
 <div align="center">
   <h1>
