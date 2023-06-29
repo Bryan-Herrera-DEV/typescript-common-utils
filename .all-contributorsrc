@@ -1,0 +1,35 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "eliseodesign",
+      "name": "Eliseo F. Arévalo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96401071?v=4",
+      "profile": "https://eliseodesign.github.io/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Bryan-Herrera-DEV",
+      "name": "Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50712646?v=4",
+      "profile": "https://bryan-herrera.netlify.app/",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "typescript-common-utils",
+  "projectOwner": "Bryan-Herrera-DEV"
+}

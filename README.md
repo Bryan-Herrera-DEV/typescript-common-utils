@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./docs/assets/img/LOGO-BANNER.png" align="center" width="400px" alt="Tpescript Dev Utils Logo">
+    <img src="https://typescript-dev-utils.netlify.app/assets/img/LOGO-BANNER.png" align="center" width="400px" alt="Tpescript Dev Utils Logo">
 </p>
 <div align="center">
   <h1>
@@ -16,8 +16,8 @@
   <a align="center" href="https://github.com/Bryan-Herrera-DEV/typescript-common-utils/blob/main/LICENSE.md">
     <img alt="License" src="https://img.shields.io/github/license/bryan-herrera-dev/typescript-common-utils.svg">
   </a>
-  <a align="center" href="https://bryan-herrera-dev.github.io/typescript-common-utils/#/">
-    <img alt="npm jest" src="https://img.shields.io/website?up_message=Documentation&url=https%3A%2F%2Fbryan-herrera-dev.github.io%2Ftypescript-common-utils%2F%23%2F">
+  <a align="center" href="https://typescript-dev-utils.netlify.app/#/">
+    <img alt="npm jest" src="https://img.shields.io/website?up_message=Documentation&url=https%3A%2F%2Ftypescript-dev-utils.netlify.app%2F%23%2F">
   </a>
 </div>
 
@@ -32,8 +32,37 @@ The library of useful types consists of a number of type definitions ranging fro
 - Utility types such as ClassConstructor, which allows the creation of instances of a given class.
 - Custom types that are common in many projects, such as user objects, settings, events, etc.a
 
+## Contributors
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://eliseodesign.github.io/"><img src="https://avatars.githubusercontent.com/u/96401071?v=4?s=100" width="100px;" alt="Eliseo F. Arévalo"/><br /><sub><b>Eliseo F. Arévalo</b></sub></a><br /><a href="https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commits?author=eliseodesign" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://bryan-herrera.netlify.app/"><img src="https://avatars.githubusercontent.com/u/50712646?v=4?s=100" width="100px;" alt="Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ"/><br /><sub><b>Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ</b></sub></a><br /><a href="#maintenance-Bryan-Herrera-DEV" title="Maintenance">🚧</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
 <hr>
 
 <a align="center" href="https://github.com/Bryan-Herrera-DEV">
   <img alt="Build with Love" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 </a>
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
