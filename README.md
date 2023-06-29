@@ -40,6 +40,7 @@ The library of useful types consists of a number of type definitions ranging fro
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://eliseodesign.github.io/"><img src="https://avatars.githubusercontent.com/u/96401071?v=4?s=100" width="100px;" alt="Eliseo F. Arévalo"/><br /><sub><b>Eliseo F. Arévalo</b></sub></a><br /><a href="https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commits?author=eliseodesign" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://bryan-herrera.netlify.app/"><img src="https://avatars.githubusercontent.com/u/50712646?v=4?s=100" width="100px;" alt="Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ"/><br /><sub><b>Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ</b></sub></a><br /><a href="#maintenance-Bryan-Herrera-DEV" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
@@ -63,5 +64,5 @@ The library of useful types consists of a number of type definitions ranging fro
 </a>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
