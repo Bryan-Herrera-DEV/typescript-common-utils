@@ -1,7 +1,4 @@
 <p align="center">
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
     <img src="https://typescript-dev-utils.netlify.app/assets/img/LOGO-BANNER.png" align="center" width="400px" alt="Tpescript Dev Utils Logo">
 </p>
 <div align="center">
@@ -64,3 +61,7 @@ The library of useful types consists of a number of type definitions ranging fro
 <a align="center" href="https://github.com/Bryan-Herrera-DEV">
   <img alt="Build with Love" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 </a>
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
