@@ -3,6 +3,8 @@
 - Class Util
 - [ClassConstructor](ClassUtils/ClassConstructor.md)
 - [ClassInstance](ClassUtils/ClassInstance.md)
+- Array Utils
+- [NonEmptyArray](ArrayUtils/NonEmptyArray.md)
 - **Links**
 - [![Github](assets/img/github.svg)Github](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/)
 - [![NPM](assets/img/npm.svg)NPM](https://www.npmjs.com/package/typescript-dev-utils)
