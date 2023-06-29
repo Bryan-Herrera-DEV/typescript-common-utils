@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/img/LOGO-BANNER.png" align="center" width="400px" alt="Tpescript Dev Utils Logo">
+    <img src="./docs/assets/img/LOGO-BANNER.png" align="center" width="400px" alt="Tpescript Dev Utils Logo">
 </p>
 <div align="center">
   <h1>
