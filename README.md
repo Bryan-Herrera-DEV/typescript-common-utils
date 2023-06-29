@@ -32,6 +32,17 @@ The library of useful types consists of a number of type definitions ranging fro
 - Utility types such as ClassConstructor, which allows the creation of instances of a given class.
 - Custom types that are common in many projects, such as user objects, settings, events, etc.a
 
+## Contributors
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
 <hr>
 
 <a align="center" href="https://github.com/Bryan-Herrera-DEV">
