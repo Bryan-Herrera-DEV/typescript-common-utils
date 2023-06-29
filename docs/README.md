@@ -16,8 +16,8 @@
   <a align="center" href="https://github.com/Bryan-Herrera-DEV/typescript-common-utils/blob/main/LICENSE.md">
     <img alt="License" src="https://img.shields.io/github/license/bryan-herrera-dev/typescript-common-utils.svg">
   </a>
-  <a align="center" href="https://bryan-herrera-dev.github.io/typescript-common-utils/#/">
-    <img alt="npm jest" src="https://img.shields.io/website?up_message=Documentation&url=https://typescript-dev-utils.netlify.app/#/">
+  <a align="center" href="https://typescript-dev-utils.netlify.app/#/">
+    <img alt="npm jest" src="https://img.shields.io/website?up_message=Documentation&url=https%3A%2F%2Ftypescript-dev-utils.netlify.app%2F%23%2F">
   </a>
 </div>
 
