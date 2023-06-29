@@ -44,4 +44,4 @@ console.log(arr.length) // Returns: 5
 
 ## Note
 
-NonEmptyArray can be useful for guaranteeing the existence of at least one element in an array, but it cannot guarantee "non-emptiness" at runtime. If it is necessary to verify that an array is not empty at runtime, you will need to perform that check explicitly in your code.
+`NonEmptyArray` can be useful for guaranteeing the existence of at least one element in an array, but it cannot guarantee "non-emptiness" at runtime. If it is necessary to verify that an array is not empty at runtime, you will need to perform that check explicitly in your code.
