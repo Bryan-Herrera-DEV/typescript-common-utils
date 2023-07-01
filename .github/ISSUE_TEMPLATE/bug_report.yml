@@ -1,0 +1,29 @@
+name: Bug report
+description: 'Create a bug report to help us improve our implementations'
+title: '[BUG]: '
+labels: ['bug']
+body:
+  - type: markdown
+    attributes:
+      value: '### Make sure that your topic is not a duplicate and that you follow our [contribution guidelines](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/blob/main/CONTRIBUTING.md)'
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Explain what the problem is.
+    validations:
+      required: true
+  - type: textarea
+    id: expectedbhv
+    attributes:
+      label: Expected behavior
+      description: Describe what was the expected behavior
+    validations:
+      required: false
+  - type: textarea
+    id: actualbhv
+    attributes:
+      label: Current behavior
+      description: Describe what actually happens.
+    validations:
+      required: false
