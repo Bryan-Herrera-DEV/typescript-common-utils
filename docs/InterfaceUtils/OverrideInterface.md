@@ -24,7 +24,7 @@ type MyOverrideType = OverrideInterface<MyFirstType, MySecondType>;
 
 ## Example Implementation
 ```ts
-import { OverrideInterface } from ".";
+import { OverrideInterface } from "typescript-dev-utils";
 import { expectType } from "tsd";
 
 interface IFuente {

@@ -24,8 +24,8 @@ obj.prop = 2;
 
 ## Example Implementation
 ```ts
-import { DeepReadonly } from "./";
-import { ExampleObjectOne } from "./../../../test/utils/ExampleObjectData";
+import { DeepReadonly } from "typescript-dev-utils";
+import { ExampleObjectOne } from "@/test/utils/ExampleObjectData";
 
 // Transforming ExampleObjectOne to a read-only version using DeepReadonly
 function transformToReadonly(): DeepReadonly<typeof ExampleObjectOne> {

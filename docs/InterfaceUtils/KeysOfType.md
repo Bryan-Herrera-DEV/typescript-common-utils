@@ -24,7 +24,7 @@ type NumberKeys = KeysOfType<MyType, number>; // 'a' | 'c'
 
 ## Example Implementation
 ```ts
-import { KeysOfType } from ".";
+import { KeysOfType } from "typescript-dev-utils";
 import { expectType } from "tsd";
 
 interface IMiInterfaz {

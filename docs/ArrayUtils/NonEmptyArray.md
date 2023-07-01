@@ -28,7 +28,7 @@ const anyInvalidArray: AnyNonEmptyArray = []; // This will give a compilation er
 ## Example Implementation
 
 ```ts
-import { NonEmptyArray } from "./";
+import { NonEmptyArray } from "typescript-dev-utils";
 
 // Implementation of the NonEmptyArray type
 function isNonEmptyArray<T>(arr: NonEmptyArray<T>) {
