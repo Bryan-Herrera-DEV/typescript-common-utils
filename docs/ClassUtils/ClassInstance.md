@@ -34,7 +34,7 @@ const instance: MyClassInstance = new MyClass();
 ## Example Implementation
 
 ```typescript
-import { ClassInstance } from "./";
+import { ClassInstance } from "typescript-dev-utils";
 
 class MyClass {
   constructor(public message: string) {}
