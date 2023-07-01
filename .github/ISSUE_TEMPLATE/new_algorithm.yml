@@ -1,0 +1,16 @@
+name: New Util type
+description: 'Suggest new util types, propose improvements to the project structure, discuss ideas for new implementations'
+title: '[NEW <>]: '
+labels: ['feat']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Asegurese de que su tema no es un duplicado y de que sigue nuestras [directrices de contribucion](https://github.com/Bryan-Herrera-DEV/Algorithms-Typescript/blob/main/CONTRIBUTING.md)
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the Util Type
+      description: Describe the algorithm, its use in a simple way and if possible an example of implementation.
+    validations:
+      required: true

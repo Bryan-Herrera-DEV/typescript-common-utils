@@ -19,6 +19,9 @@
   <a align="center" href="https://typescript-dev-utils.netlify.app/#/">
     <img alt="npm jest" src="https://img.shields.io/website?up_message=Documentation&url=https%3A%2F%2Ftypescript-dev-utils.netlify.app%2F%23%2F">
   </a>
+  <div align="center">
+    <img alt="npm jest" src="https://github.com/Bryan-Herrera-DEV/typescript-common-utils/workflows/CodeQL/badge.svg">
+  </div>
 </div>
 
 The Useful Types library is an indispensable tool for any developer who works with TypeScript on a regular basis. This library is designed to provide a wide range of common types used in everyday software development.
