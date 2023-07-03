@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## Asegurese de que su tema no es un duplicado y de que sigue nuestras [directrices de contribucion](https://github.com/Bryan-Herrera-DEV/Algorithms-Typescript/blob/main/CONTRIBUTING.md)
+        ## Make sure that your topic is not a duplicate and that you follow our [contribution guidelines](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/blob/main/CONTRIBUTING.md)
   - type: textarea
     id: description
     attributes:

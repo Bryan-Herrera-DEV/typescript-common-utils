@@ -2,6 +2,32 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/compare/v1.2.0...v1.3.0) (2023-07-02)
+
+## [1.2.0](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/compare/v1.1.0...v1.2.0) (2023-07-02)
+
+## [1.1.0](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/compare/v1.0.0...v1.1.0) (2023-07-02)
+
+
+### Features
+
+* :green_heart: add CI staticsite. ([894603c](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/894603cfc7e3adee67227d527a1e160c7de84618))
+
+
+### Bug Fixes
+
+* :ambulance: hot fix of language in ISSUE_TEMPLATE ([55c0611](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/55c0611c0d519f46d6636a229b3289ab185a9c9a))
+* :art: change image and url documentation link ([4e2069c](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/4e2069c62e26c9575a55fa7328fdbf254f58011e))
+* :art: change image and url documentation link ([115b90b](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/115b90be6a07209e6fefe15e6f37af86d0f615a3))
+* :art: change image and url documentation link ([df04f6e](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/df04f6e58ab638a9eae331156ad5f9ac4a3f51f9))
+* :art: change image and url documentation link ([dbdc08f](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/dbdc08fec3999bd02092fea0863dd7c328dc9bfa))
+* :art: change image and url documentation link ([244a7c2](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/244a7c2e88ab3c4f3cc1eb2858ac018043902e82))
+* :art: change image and url documentation link ([80e5f2e](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/80e5f2e3746a9ec021a19b6a258f024f5cdebe78))
+* :art: fix opengraph images ([044de7b](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/044de7ba686d6acbe56f4c44a4a49aae4eb8bf49))
+* :bug: fix error in PR ([87b0e64](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/87b0e6451410ffe5d98f40e3c85cf2652485a316))
+* :bug: fix error in sociallinks ([655ae3c](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/655ae3c198a7a09a720083e9a709a81800fb0c5c))
+* :memo: fix error README ([729985d](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/729985d87a99418cca0e2d72e19d873cde2e6815))
+
 ## [1.0.0](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/compare/v1.0.0-alpha.0...v1.0.0) (2023-06-27)
 
 ## [1.0.0-alpha.0](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/compare/v0.2.2...v1.0.0-alpha.0) (2023-06-27)
