@@ -10,4 +10,4 @@ fi
 
 # Add generated files
 git add README.md
-git commit --amend --no-edit
+git commit -m "chore [🤖]: :memo: update README.md"
