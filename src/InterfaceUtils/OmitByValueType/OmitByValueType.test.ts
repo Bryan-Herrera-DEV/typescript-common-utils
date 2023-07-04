@@ -12,7 +12,7 @@ describe("[Test] OmitByValueType", () => {
   it("returns keys not of a specific type", () => {
     const getNonStringKeys = <T extends object>(obj: T): Array<OmitByValueType<T, string>> => {
       const keys = (Object.keys(obj) as Array<keyof T>).filter(
-        key => typeof obj[key] !== 'string'
+        key => typeof obj[key] !== "string"
       ) as Array<OmitByValueType<T, string>>;
       return keys;
     };

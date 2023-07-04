@@ -60,6 +60,57 @@ The library of useful types consists of a number of type definitions ranging fro
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
+<!-- markdownlint-project-tree -->
+
+```bash
+|-- ..
+|   |-- .all-contributorsrc
+|   |-- .editorconfig
+|   |-- .eslintrc
+|   |-- .npmignore
+|   |-- .npmrc
+|   |-- CHANGELOG.md
+|   |-- CODE_OF_CONDUCT.md
+|   |-- CONTRIBUTING.md
+|   |-- index.ts
+|   |-- jest.config.ts
+|   |-- LICENSE.md
+|   |-- package-lock.json
+|   |-- package.json
+|   |-- README.md
+|   |-- SECURITY.md
+|   |-- src
+|   |   |-- ArrayUtils
+|   |   |   |-- index.ts
+|   |   |   |-- NonEmptyArray
+|   |   |       |-- index.ts
+|   |       |-- UnboxArray
+|   |           |-- index.ts
+|   |   |-- ClassUtils
+|   |   |   |-- ClassConstructor
+|   |   |       |-- index.ts
+|   |   |   |-- ClassInstance
+|   |   |       |-- index.ts
+|   |   |   |-- index.ts
+|   |       |-- PublicMethods
+|   |           |-- index.ts
+|       |-- InterfaceUtils
+|       |   |-- DeepReadOnly
+|       |       |-- index.ts
+|       |   |-- index.ts
+|       |   |-- KeysOfType
+|       |       |-- index.ts
+|       |   |-- OmitByValueType
+|       |       |-- index.ts
+|       |   |-- OverrideInterface
+|       |       |-- index.ts
+|           |-- UnionToIntersection
+|               |-- index.ts
+    |-- tsconfig.json
+
+```
+
+<!-- end-markdownlint-project-tree -->
 <hr>
 
 <a align="center" href="https://github.com/Bryan-Herrera-DEV">

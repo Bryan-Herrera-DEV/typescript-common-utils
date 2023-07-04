@@ -1,5 +1,5 @@
 import { UnionToIntersection } from ".";
-import { expectType, expectError } from "tsd";
+import { expectType } from "tsd";
 
 describe("[Test] UnionToIntersection", () => {
   it("converts a union type to an intersection type", () => {
