@@ -25,8 +25,8 @@ const anyClassInstance: any = new AnyClassConstructor(args);
 ```
 ## Example Implementation
 ```ts
-import { ClassConstructor } from ".";
-import { User } from "../../../test/utils/UserClass";
+import { ClassConstructor } from "typescript-dev-utils";
+import { User } from "@/test/utils/UserClass";
 
 // Implementation of the ClassConstructor type
 function instanceCreator<T>(Cls: ClassConstructor<T>, ...args: unknown[]): T {

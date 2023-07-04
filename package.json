@@ -1,6 +1,6 @@
 {
   "name": "typescript-dev-utils",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "description": "Library that makes available many useful and common types for regular typescript developers.",
   "main": "index.ts",
   "author": "Bryan Herrera <bryherrera55@gmail.com>",
@@ -14,14 +14,15 @@
     "lint": "eslint . --ext .ts",
     "style": "npm run lint -- --fix",
     "prepare": "husky install",
-    "test-files": "node scripts/ValidateTest.mjs",
     "release": "standard-version",
     "release:major": "npm run release -- --release-as major",
     "release:minor": "npm run release -- --release-as minor",
     "release:patch": "npm run release -- --release-as patch",
     "release:alpha": "npm run release -- --prerelease alpha",
     "release:breaking-changes": "npm run release -- --release-as major --prerelease alpha",
-    "publish": "npm push --follow-tags main"
+    "publish": "npm push --follow-tags main",
+    "test-files": "node scripts/ValidateTest.mjs",
+    "generate-markdown-tree": "node scripts/MarkdownGenerateTree.js"
   },
   "keywords": [
     "typescript",
