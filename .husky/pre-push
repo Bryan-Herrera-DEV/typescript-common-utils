@@ -3,3 +3,11 @@
 
 echo -e "\e[36m[Automated]\e[0m Running pre-push hook"
 npm run generate-markdown-tree
+if [ $? -ne 0 ]; then
+  echo -e "\e[31m[Automated]\e[0m Generating markdown tree failed 💀"
+  exit 1
+fi
+
+# Add generated files
+git add README.md
+git commit --amend --no-edit
