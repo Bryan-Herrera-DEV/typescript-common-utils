@@ -74,7 +74,6 @@ The library of useful types consists of a number of type definitions ranging fro
 |   |-- CONTRIBUTING.md
 |   |-- index.ts
 |   |-- jest.config.ts
-|   |-- lib
 |   |-- LICENSE.md
 |   |-- package-lock.json
 |   |-- package.json
