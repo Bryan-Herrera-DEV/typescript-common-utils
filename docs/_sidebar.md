@@ -5,6 +5,7 @@
 - [ClassInstance](ClassUtils/ClassInstance.md)
 - Array Utils
 - [NonEmptyArray](ArrayUtils/NonEmptyArray.md)
+- [UnboxArray](ArrayUtils/UnboxArray.md)
 - InterfaceUtils
 - [DeepReadOnly](InterfaceUtils/DeepReadOnly.md)
 - [KeysOfType](InterfaceUtils/KeysOfType.md)
