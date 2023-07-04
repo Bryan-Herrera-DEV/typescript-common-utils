@@ -3,6 +3,7 @@
 - Class Util
 - [ClassConstructor](ClassUtils/ClassConstructor.md)
 - [ClassInstance](ClassUtils/ClassInstance.md)
+- [PublicMethods](ClassUtils/PublicMethods.md)
 - Array Utils
 - [NonEmptyArray](ArrayUtils/NonEmptyArray.md)
 - [UnboxArray](ArrayUtils/UnboxArray.md)
