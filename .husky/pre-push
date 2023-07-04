@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+echo -e "\e[36m[Automated]\e[0m Running pre-push hook"
+npm run generate-markdown-tree
