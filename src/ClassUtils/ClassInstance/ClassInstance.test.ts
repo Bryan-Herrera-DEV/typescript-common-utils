@@ -1,3 +1,4 @@
+// @typescript-eslint/no-explicit-any - disable explicit any
 import { ClassInstance } from "./";
 import { expectType } from "tsd";
 

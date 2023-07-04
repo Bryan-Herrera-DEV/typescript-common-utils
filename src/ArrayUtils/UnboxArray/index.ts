@@ -18,4 +18,4 @@
  *
  * @note UnboxArray can be useful for working with array element types. However, remember that TypeScript is a compile-time type system and cannot guarantee type consistency at runtime.
  */
-export type UnboxArray<T extends any[]> = T extends (infer U)[] ? U : T;
+export type UnboxArray<T extends unknown[]> = T extends (infer U)[] ? U : T;
