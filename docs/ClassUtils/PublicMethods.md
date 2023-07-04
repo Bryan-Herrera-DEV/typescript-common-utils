@@ -27,7 +27,7 @@ type MyPublicMethods = PublicMethods<MyClass>; // "myPublicMethod".
 
 ## Example Implementation
 ```ts
-import { PublicMethods } from ".";
+import { PublicMethods } from "typescript-dev-utils";
 import { expectType } from "tsd";
 
 // Function to get the public methods of an object
