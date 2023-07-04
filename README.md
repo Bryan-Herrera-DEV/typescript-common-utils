@@ -35,6 +35,10 @@ The library of useful types consists of a number of type definitions ranging fro
 - Utility types such as ClassConstructor, which allows the creation of instances of a given class.
 - Custom types that are common in many projects, such as user objects, settings, events, etc.a
 
+## Project Status
+
+![Alt](https://repobeats.axiom.co/api/embed/f12386845c45e3ad38341c8c31f11785d753a922.svg "Repobeats analytics image")
+
 ## Contributors
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
