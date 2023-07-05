@@ -36,4 +36,4 @@ feat: :sparkles: add quicksort algorithm.
 fix: #123 :bug: correct incorrect error message.
 
 ## Tests
-Asegúrate de que tu código funciona. Para ello, proporcionamos y utilizamos Jest para ejecutar pruebas unitarias en nuestras implementaciones. Escribe pruebas para las funciones que implementes para asegurarte de que funcionan correctamente, incluso después de múltiples cambios en el código.
+Make sure your code works. To do this, we provide and use Jest to run unit tests on our implementations. Write tests for the functions you implement to make sure they work correctly, even after multiple code changes.
