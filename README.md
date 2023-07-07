@@ -97,6 +97,8 @@ The library of useful types consists of a number of type definitions ranging fro
 |   |   |   |-- ClassInstance
 |   |   |       |-- index.ts
 |   |   |   |-- index.ts
+|   |   |   |-- MethodReturnType
+|   |   |       |-- index.ts
 |   |       |-- PublicMethods
 |   |           |-- index.ts
 |       |-- InterfaceUtils
