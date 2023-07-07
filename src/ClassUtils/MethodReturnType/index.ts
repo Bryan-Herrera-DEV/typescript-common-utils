@@ -1,22 +1,22 @@
 /**
- * MethodReturnType es un tipo utilitario que obtiene el tipo de retorno de un método específico dentro de un objeto `T`.
- * Es útil cuando quieres trabajar con el tipo de retorno de un método específico dentro de un objeto.
+ * MethodReturnType is a utility type that gets the return type of a specific method within a `T` object.
+ * It is useful when you want to work with the return type of a specific method within an object.
  *
- * @template T - Este parámetro de tipo representa el objeto en el que estás interesado.
+ * @template T - This type parameter represents the object you are interested in.
  *
- * @template K - Este parámetro de tipo representa la clave del método dentro del objeto `T` cuyo tipo de retorno estás interesado en obtener.
+ * @template K - This type parameter represents the key of the method within the `T` object whose return type you are interested in obtaining.
  *
- * @returns {MethodReturnType<T, K>} - El tipo de retorno es el tipo de retorno del método que corresponde a la clave `K` dentro del objeto `T`.
- * Si la clave `K` no corresponde a un método en `T`, o si el método no tiene un tipo de retorno explícito, el tipo de retorno será 'any'.
+ * @returns {MethodReturnType<T, K>} - The return type is the return type of the method that corresponds to the `K` key within the `T` object.
+ * If the key `K` does not correspond to a method in `T`, or if the method does not have an explicit return type, the return type will be `any`.
  *
  * @example
- * // Para usarlo con un objeto específico y una clave de método:
+ * // For use with a specific object and method key:
  * class MyClass {
- *   myMethod(): number { return 42; }
+ * myMethod(): number { return 42; }
  * }
  *
- * type MyMethodReturnType = MethodReturnType<MyClass, 'myMethod'>; // number
+ * type MyMethodReturnType = MethodReturnType<MyClass, 'myMethod'>; // number.
  *
- * @note MethodReturnType puede ser útil para trabajar con el tipo de retorno de métodos específicos. Sin embargo, recuerda que TypeScript es un sistema de tipos en tiempo de compilación y no puede garantizar la coherencia de los tipos en tiempo de ejecución.
+ * @note MethodReturnType can be useful for working with the return type of specific methods. However, remember that TypeScript is a compile-time type system and cannot guarantee type consistency at run-time.
  */
 export type MethodReturnType<T, K extends keyof T> = T[K] extends (...args: any[]) => infer R ? R : any;
