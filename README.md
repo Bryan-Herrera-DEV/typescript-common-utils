@@ -111,7 +111,9 @@ The library of useful types consists of a number of type definitions ranging fro
 |       |       |-- index.ts
 |       |   |-- OverrideInterface
 |       |       |-- index.ts
-|           |-- UnionToIntersection
+|       |   |-- UnionToIntersection
+|       |       |-- index.ts
+|           |-- WritableKeys
 |               |-- index.ts
     |-- tsconfig.json
 
