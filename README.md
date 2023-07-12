@@ -86,6 +86,8 @@ The library of useful types consists of a number of type definitions ranging fro
 |   |-- SECURITY.md
 |   |-- src
 |   |   |-- ArrayUtils
+|   |   |   |-- AsReadOnlyArray
+|   |   |       |-- index.ts
 |   |   |   |-- index.ts
 |   |   |   |-- NonEmptyArray
 |   |   |       |-- index.ts
@@ -110,6 +112,8 @@ The library of useful types consists of a number of type definitions ranging fro
 |       |   |-- OmitByValueType
 |       |       |-- index.ts
 |       |   |-- OverrideInterface
+|       |       |-- index.ts
+|       |   |-- ReadonlyKeys
 |       |       |-- index.ts
 |       |   |-- RequireAtLeastOne
 |       |       |-- index.ts
