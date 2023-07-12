@@ -16,4 +16,4 @@
  * @note AsReadonly can be useful when you want to protect an array from being mutated.
  * However, remember that TypeScript is a compile-time type system and cannot guarantee type safety at runtime.
  */
-export type AsReadonlyArray<T extends any[]> = readonly [...T];
+export type AsReadonlyArray<T extends unknown[]> = readonly [...T];
