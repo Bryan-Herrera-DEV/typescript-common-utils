@@ -35,6 +35,10 @@ The library of useful types consists of a number of type definitions ranging fro
 - Utility types such as ClassConstructor, which allows the creation of instances of a given class.
 - Custom types that are common in many projects, such as user objects, settings, events, etc.a
 
+## Project Status
+
+![Alt](https://repobeats.axiom.co/api/embed/f12386845c45e3ad38341c8c31f11785d753a922.svg "Repobeats analytics image")
+
 ## Contributors
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -59,7 +63,7 @@ The library of useful types consists of a number of type definitions ranging fro
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-
+## Project Tree
 <!-- markdownlint-project-tree -->
 
 ```bash
@@ -74,6 +78,7 @@ The library of useful types consists of a number of type definitions ranging fro
 |   |-- CONTRIBUTING.md
 |   |-- index.ts
 |   |-- jest.config.ts
+|   |-- lib
 |   |-- LICENSE.md
 |   |-- package-lock.json
 |   |-- package.json
@@ -81,6 +86,8 @@ The library of useful types consists of a number of type definitions ranging fro
 |   |-- SECURITY.md
 |   |-- src
 |   |   |-- ArrayUtils
+|   |   |   |-- AsReadOnlyArray
+|   |   |       |-- index.ts
 |   |   |   |-- index.ts
 |   |   |   |-- NonEmptyArray
 |   |   |       |-- index.ts
@@ -92,6 +99,8 @@ The library of useful types consists of a number of type definitions ranging fro
 |   |   |   |-- ClassInstance
 |   |   |       |-- index.ts
 |   |   |   |-- index.ts
+|   |   |   |-- MethodReturnType
+|   |   |       |-- index.ts
 |   |       |-- PublicMethods
 |   |           |-- index.ts
 |       |-- InterfaceUtils
@@ -104,7 +113,13 @@ The library of useful types consists of a number of type definitions ranging fro
 |       |       |-- index.ts
 |       |   |-- OverrideInterface
 |       |       |-- index.ts
-|           |-- UnionToIntersection
+|       |   |-- ReadonlyKeys
+|       |       |-- index.ts
+|       |   |-- RequireAtLeastOne
+|       |       |-- index.ts
+|       |   |-- UnionToIntersection
+|       |       |-- index.ts
+|           |-- WritableKeys
 |               |-- index.ts
     |-- tsconfig.json
 
