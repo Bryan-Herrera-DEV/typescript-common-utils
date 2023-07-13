@@ -2,6 +2,52 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.5.0](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/compare/v2.4.0...v2.5.0) (2023-07-12)
+
+## [2.4.0](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/compare/v1.4.0...v2.4.0) (2023-07-12)
+
+
+### Bug Fixes
+
+* :bug: fix error in workflow ([a2583d2](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/a2583d297fbef145a4f01f1f7a648d6aa33b252e))
+* :memo: fix error README ([97dc365](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/97dc36505c103494a473602130a5cbc234c30838))
+* :memo: fix error README ([3eabeb1](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/3eabeb11a01e655cb971c5d9a87d64ae7ce24262))
+* :memo: fix error README ([33a1346](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/33a1346b5cc735383ecedd758ddc1bb339d5b47c))
+* :memo: fix error README ([f3f9dbc](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/f3f9dbc1a4b188e7a00b14321bbfc21e00449e38))
+
+## [2.3.0](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/compare/v1.4.0...v2.3.0) (2023-07-11)
+
+
+### Bug Fixes
+
+* :bug: fix error in workflow ([a2583d2](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/a2583d297fbef145a4f01f1f7a648d6aa33b252e))
+* :memo: fix error README ([97dc365](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/97dc36505c103494a473602130a5cbc234c30838))
+* :memo: fix error README ([3eabeb1](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/3eabeb11a01e655cb971c5d9a87d64ae7ce24262))
+* :memo: fix error README ([33a1346](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/33a1346b5cc735383ecedd758ddc1bb339d5b47c))
+* :memo: fix error README ([f3f9dbc](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/f3f9dbc1a4b188e7a00b14321bbfc21e00449e38))
+
+## [2.2.0](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/compare/v1.4.0...v2.2.0) (2023-07-07)
+
+
+### Bug Fixes
+
+* :bug: fix error in workflow ([a2583d2](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/a2583d297fbef145a4f01f1f7a648d6aa33b252e))
+* :memo: fix error README ([97dc365](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/97dc36505c103494a473602130a5cbc234c30838))
+* :memo: fix error README ([3eabeb1](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/3eabeb11a01e655cb971c5d9a87d64ae7ce24262))
+* :memo: fix error README ([33a1346](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/33a1346b5cc735383ecedd758ddc1bb339d5b47c))
+* :memo: fix error README ([f3f9dbc](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/f3f9dbc1a4b188e7a00b14321bbfc21e00449e38))
+
+## [2.1.0](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/compare/v1.4.0...v2.1.0) (2023-07-07)
+
+
+### Bug Fixes
+
+* :bug: fix error in workflow ([a2583d2](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/a2583d297fbef145a4f01f1f7a648d6aa33b252e))
+* :memo: fix error README ([97dc365](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/97dc36505c103494a473602130a5cbc234c30838))
+* :memo: fix error README ([3eabeb1](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/3eabeb11a01e655cb971c5d9a87d64ae7ce24262))
+* :memo: fix error README ([33a1346](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/33a1346b5cc735383ecedd758ddc1bb339d5b47c))
+* :memo: fix error README ([f3f9dbc](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/commit/f3f9dbc1a4b188e7a00b14321bbfc21e00449e38))
+
 ## [2.0.0](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/compare/v1.4.0...v2.0.0) (2023-07-04)
 
 ## [1.4.0](https://github.com/Bryan-Herrera-DEV/typescript-common-utils/compare/v1.3.0...v1.4.0) (2023-07-03)

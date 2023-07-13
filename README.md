@@ -78,7 +78,6 @@ The library of useful types consists of a number of type definitions ranging fro
 |   |-- CONTRIBUTING.md
 |   |-- index.ts
 |   |-- jest.config.ts
-|   |-- lib
 |   |-- LICENSE.md
 |   |-- package-lock.json
 |   |-- package.json
@@ -86,6 +85,8 @@ The library of useful types consists of a number of type definitions ranging fro
 |   |-- SECURITY.md
 |   |-- src
 |   |   |-- ArrayUtils
+|   |   |   |-- AsReadOnlyArray
+|   |   |       |-- index.ts
 |   |   |   |-- index.ts
 |   |   |   |-- NonEmptyArray
 |   |   |       |-- index.ts
@@ -97,6 +98,8 @@ The library of useful types consists of a number of type definitions ranging fro
 |   |   |   |-- ClassInstance
 |   |   |       |-- index.ts
 |   |   |   |-- index.ts
+|   |   |   |-- MethodReturnType
+|   |   |       |-- index.ts
 |   |       |-- PublicMethods
 |   |           |-- index.ts
 |       |-- InterfaceUtils
@@ -109,7 +112,13 @@ The library of useful types consists of a number of type definitions ranging fro
 |       |       |-- index.ts
 |       |   |-- OverrideInterface
 |       |       |-- index.ts
-|           |-- UnionToIntersection
+|       |   |-- ReadonlyKeys
+|       |       |-- index.ts
+|       |   |-- RequireAtLeastOne
+|       |       |-- index.ts
+|       |   |-- UnionToIntersection
+|       |       |-- index.ts
+|           |-- WritableKeys
 |               |-- index.ts
     |-- tsconfig.json
 
